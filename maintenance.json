@@ -1,6 +1,6 @@
 {
-  "status": false,
-  "message": "Bot sedang maintenance, silakan coba lagi nanti.",
+  "status": true,
+  "message": "test",
   "startTime": "2026-03-17T12:00:00Z",
   "endTime": "2026-03-17T18:00:00Z"
 }
