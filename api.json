@@ -1,4 +1,4 @@
 {
-  "api_url": "http://armufaploit.sano.biz.id:5172",
-  "rat_url": "http://armufaploit.sano.biz.id:5172"
+  "api_url": "http://192.168.1.3:5172",
+  "rat_url": "http://192.168.1.3:5172"
 }
