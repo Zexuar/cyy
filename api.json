@@ -1,4 +1,4 @@
 {
   "api_url": "http://zixxnotdev.agilsubdo.dpdns.org:2415",
-  "rat_url": "http://zixxnotdev.agilsubdo.dpdns.org:2415"
+  "rat_url": "http://localhost:3000"
 }
